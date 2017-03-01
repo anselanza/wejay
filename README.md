@@ -1,5 +1,8 @@
-# wejay
-Realtime Social Playlist Party
+# WeJay
+*The Realtime Social Playlist Party*
+
+---
+
 
 Some resources for controlling Youtube programmatically:
 - https://developers.google.com/youtube/iframe_api_reference
@@ -8,3 +11,10 @@ Some resources for controlling Youtube programmatically:
 An example (Never Ending Playlist)
 http://neverendingplaylist.com/
 
+## Built with...
+
+### Angular 2
+Angular 2 app built from Angular 2 Webpack Starter: https://angularclass.github.io/angular2-webpack-starter/
+
+### Strongloop Loopback 3
+http://loopback.io

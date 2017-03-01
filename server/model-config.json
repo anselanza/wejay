@@ -31,5 +31,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Track": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Party": {
+    "dataSource": "db",
+    "public": true
   }
 }

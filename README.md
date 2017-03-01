@@ -18,3 +18,6 @@ Angular 2 app built from Angular 2 Webpack Starter: https://angularclass.github.
 
 ### Strongloop Loopback 3
 http://loopback.io
+
+### (tying them together) Angular 2 SDK for loopback
+https://github.com/mean-expert-official/loopback-sdk-builder/wiki/1.-Install-Builder-&-Build-SDK
